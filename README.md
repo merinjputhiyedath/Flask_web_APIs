@@ -13,7 +13,7 @@
 6. Run `python app.py`
 7. Application should now be running on port 5000
 
-# List of Avaialble APIs
+# List of Available APIs
 ![Available APIs](/Screenshots/AvailableAPIs.png)
 
 
