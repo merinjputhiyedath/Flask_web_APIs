@@ -29,7 +29,7 @@ app = Flask(__name__)
 cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
 app.secret_key = '4rZ8BTvr7qTdFF'
-app.permanent_session_lifetime = timedelta(minutes=1)
+app.permanent_session_lifetime = timedelta(minutes=10)
 
 app.config['SECRET_KEY'] = '4rZ8BTvr7qTdFF'
 app.config['UPLOAD_FOLDER'] =  './Resources'
