@@ -1,4 +1,4 @@
-# CPSC449_Project_Midterm
+# APIs created using Flask, MySQL
 
 # Team Members:
 1. Apeksha Shah (CWID 885904342)
